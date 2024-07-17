@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Carlos Alfonso Hernandez Rojas",
-    "label": "Desarrollador Web Fullstack Jr. | Consultor de TI ",
+    "label": "Desarrollador Jr. Frontend y Backend | Consultor de TI ",
     "image": "photo.jpeg",
     "email": "alfonsohr_98@outlook.com",
     "phone": "+52 444 314 22 85",
@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
-        "network": "X",
-        "username": "AlfonsoHR98",
-        "url": "https://x.com/AlfonsoHR98"
+        "network": "GitHub",
+        "username": "alfonsoHR98",
+        "url": "https://github.com/alfonsoHR98"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Alfonso Hernandez",
+        "url": "https://www.linkedin.com/in/alfonso-hernandez-41027b302/"
       }
     ]
   },
@@ -93,6 +98,42 @@
       "date": "2024-05-03",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/alfonsohr_98/curso/9443-software-seguro/diploma/detalle/"
+    },
+    {
+      "name": "T29B_LENGUAJESDEPROGRAMACION_LENGUAJEC_P2021",
+      "date": "2021-06-01",
+      "issuer": "CISCO",
+      "url": ""
+    },
+    {
+      "name": "T29B_LENGUAJESDEPROGRAMACION_LENGUAJEC++_P2021",
+      "date": "2021-06-01",
+      "issuer": "CISCO",
+      "url": ""
+    },
+    {
+      "name": "T29B_LENGUAJESDEPROGRAMACION_PHYTON_P2021",
+      "date": "2021-06-01",
+      "issuer": "CISCO",
+      "url": ""
+    },
+    {
+      "name": "T34AProyecto Integrador y Comprensivo IIO2021",
+      "date": "2021-12-07",
+      "issuer": "CISCO",
+      "url": ""
+    },
+    {
+      "name": "T49A-Redes de Computadoras-OTOÑO2022",
+      "date": "2022-12-21",
+      "issuer": "CISCO",
+      "url": ""
+    },
+    {
+      "name": "98-383:MTA: Introduction to Programming using HTML and CSS",
+      "date": "2021-04-21",
+      "issuer": "Certiport",
+      "url": ""
     }
   ],
   "publications": [

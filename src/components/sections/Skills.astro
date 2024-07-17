@@ -12,6 +12,9 @@ import Git from "@/icons/git.astro";
 import GitHub from "@/icons/GitHub.astro";
 import Tailwind from "@/icons/tailwind.astro";
 import Next from "@/icons/next.astro";
+import Python from "@/icons/python.astro";
+import MongoDB from "@/icons/mongo.astro";
+import Postgres from "@/icons/postgres.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -25,6 +28,9 @@ const SKILLS_ICONS: Record<string, any> = {
   GitHub,
   Next,
   Tailwind,
+  Python,
+  MongoDB,
+  Postgres,
 };
 ---
 
@@ -32,7 +38,8 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name;
+        const iconName =
+          name === "Next.js" ? "Next" : name === "Astro.build" ? "Astro" : name;
         const Icon = SKILLS_ICONS[iconName];
 
         return (
