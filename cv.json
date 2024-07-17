@@ -2,11 +2,11 @@
   "basics": {
     "name": "Carlos Alfonso Hernandez Rojas",
     "label": "Programmer",
-    "image": "/photo.jpg",
+    "image": "photo.jpg",
     "email": "alfonsohr_98@outlook.com",
     "phone": "+52 444 314 22 85",
     "url": "https://madaraweed.dev",
-    "summary": "Tengo 25 años y soy Ingeniero en Tecnologías de la Información, tengo experiencia laboral de 2 años en el área de desarrollo, soporte técnico",
+    "summary": "Soy un profesional con dos años de experiencia en desarrollo web, enfocado principalmente en tecnologías como React, Next.js y Astro. He contribuido al desarrollo y mantenimiento de aplicaciones web modernas y dinámicas, con un fuerte énfasis en la creación de interfaces de usuario responsivas y amigables.\n Además, tengo experiencia en el desarrollo de APIs utilizando Python y Javascript, especializándome en la integración de sistemas mediante API REST.\n Mi trayectoria profesional refleja una combinación única de habilidades técnicas en desarrollo web y backend, junto con capacidades administrativas esenciales para asegurar el funcionamiento eficiente de los sistemas tecnológicos en la empresa.",
     "location": {
       "address": "Carretera a Zacatecas 1200 int E-5",
       "postalCode": "78116",
@@ -26,11 +26,28 @@
     {
       "name": "Niuko Consultores",
       "position": "Consultor",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Soy encargado de las oficinas de Queretaro, doy soporte técnico a los empleados",
-      "highlights": ["Started the company"]
+      "url": "https://niuko.mx",
+      "startDate": "2022-11-22",
+      "endDate": null,
+      "summary": "Soy encargado de las oficinas de Queretaro y colaboro en las de San Luis Potosí, desempeño un rol integral dentro del área de TI, donde además de brindar soporte técnico, gestiono licenciamientos, controlo inventarios, controlo el servidor privado donde se da servicio y soporte de Compaq, administración de redes, cableado estructurado, entre mas actividades.",
+      "highlights": [
+        "Implemente y cree el servicio de aplicación de control horas",
+        "Colabore en la mejora de rendimiento en la pagina web de la empresa",
+        "Actualice el blog de la empresa",
+        "Colabore en un chat bot para la empresa para tickets de soporte"
+      ]
+    },
+    {
+      "name": "Carls Jr.",
+      "position": "Supervisor",
+      "url": "https://carlsjr.com.mx/",
+      "startDate": "2019-08-15",
+      "endDate": "2022-11-19",
+      "summary": "Supervise el correcto funcionamiento de la sucursal, asegurando la calidad de los productos y el servicio al cliente, además de la capacitación y supervisión del personal.",
+      "highlights": [
+        "Capacite a personal para el correcto funcionamiento de la sucursal",
+        "Ayude en el cableado estructurado de la sucursal"
+      ]
     }
   ],
   "volunteer": [
@@ -46,14 +63,20 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Universidad Politécnica de San Luis Potosí",
+      "url": "https://www.upslp.edu.mx/",
+      "area": "Ingeniería en Tecnologías de la Información",
+      "studyType": "Bachiller",
+      "startDate": "2017-08-01",
+      "endDate": "2023-06-01",
+      "score": "8.39",
+      "courses": [
+        "77-420: MOS: Microsoft Office Excel 2013",
+        "77-418: MOS: Microsoft Office Word 2013",
+        "77-422: MOS: Microsoft Office PowerPoint 2013",
+        "98-349:MTA: Windows® Operating System Fundamentals",
+        "98-383:MTA: Introduction to Programming using HTML and CSS"
+      ]
     }
   ],
   "awards": [
@@ -66,10 +89,10 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Curso de Ciberseguridad para Desarrollo Web",
+      "date": "2024-05-03",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/alfonsohr_98/curso/9443-software-seguro/diploma/detalle/"
     }
   ],
   "publications": [
@@ -84,20 +107,51 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "level": "junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Astro",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "junior",
+      "keywords": [
+        "Python",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "Firebase",
+        "MySQL",
+        "MariaDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "junior",
+      "keywords": ["Git", "GitHub", "VSCode", "Postman"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "A2"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Hobbys",
+      "keywords": ["Videojuegos", "Boxeo", "Ciclismo"]
+    },
+    {
+      "name": "Interests",
+      "keywords": ["Desarrollo web", "Backend", "APIs"]
     }
   ],
   "references": [
@@ -108,12 +162,79 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "name": "TimeBuilding Frontend",
+      "isActive": true,
+      "startDate": "2024-03-01",
+      "endDate": "2021-06-01",
+      "description": "Time Building es una aplicación web que permite a los usuarios llevar un registro de las horas trabajadas, además de generar reportes y estadísticas sobre su productividad.",
+      "highlights": [
+        "Desarrollo de la interfaz de usuario",
+        "Despliegue de servicios en la nube",
+        "Mantenimiento y soporte técnico",
+        "Documentación del proyecto"
+      ],
+      "url": "https://dashboard.niuko.mx/",
+      "github": "https://github.com/alfonsoHR98/niuko-frontend"
+    },
+    {
+      "name": "TimeBuilding Backend",
+      "isActive": true,
+      "startDate": "2024-03-01",
+      "endDate": "2021-06-01",
+      "description": "API responsable de la gestión de usuarios, proyectos y horas trabajadas en la aplicación TimeBuilding.",
+      "highlights": [
+        "Desarrollo de la API REST",
+        "Uso de JSON Web Tokens para la autenticación",
+        "Implementación de la base de datos",
+        "Despliegue de servicios en la nube"
+      ],
+      "url": "https://dashboard.niuko.mx/",
+      "github": "https://github.com/alfonsoHR98/niuko-backend"
+    },
+    {
+      "name": "Blog",
+      "isActive": true,
+      "startDate": "2024-07-01",
+      "endDate": "Actualidad",
+      "description": "Se busca actualizar, mejorar y mantener el blog de la empresa, con el objetivo de atraer a nuevos clientes y mantener informados a los actuales. Implementando nuevas funcionalidades y mejoras en la interfaz de usuario, una forma fácil de realizar publicaciones",
+      "highlights": [
+        "Desarrollo de interfaz de usuario",
+        "EmailJs para el envío de correos",
+        "Firebase para el banco de imágenes",
+        "Despliegue en la nube"
+      ],
+      "url": "https://blog.niuko.mx/",
+      "github": "https://github.com/alfonsoHR98/niuko-blog"
+    },
+    {
+      "name": "Control de Inventarios Frontend",
+      "isActive": true,
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-20",
+      "description": "Control de inventarios es una aplicación web que permite a los usuarios llevar un registro de los productos en stock, además de generar reportes y estadísticas sobre las ventas y el inventario.",
+      "highlights": [
+        "Desarrollo de la interfaz de usuario",
+        "Despliegue de servicios en la nube",
+        "Mantenimiento y soporte técnico",
+        "Documentación del proyecto"
+      ],
+      "url": "https://aproil.up.railway.app/",
+      "github": "https://github.com/alfonsoHR98/aproil-frontend"
+    },
+    {
+      "name": "Control de Inventarios Backend",
+      "isActive": true,
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-20",
+      "description": "API responsable de la gestión de productos, ventas y reportes en la aplicación Control de Inventarios.",
+      "highlights": [
+        "Desarrollo de la API REST",
+        "Uso de JSON Web Tokens para la autenticación",
+        "Implementación de la base de datos",
+        "Despliegue de servicios en la nube"
+      ],
+      "url": "https://aproil.up.railway.app/",
+      "github": "https://github.com/alfonsoHR98/aproil-api"
     }
   ]
 }
