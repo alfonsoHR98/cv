@@ -1,5 +1,5 @@
 ---
-import { basics } from "@cv";
+import { basics, languages } from "@cv";
 import Section from "../Section.astro";
 import Mail from "@/icons/Mail.astro";
 import Phone from "@/icons/Phone.astro";
@@ -33,6 +33,15 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
         <WorldMap />
         {city}, {region}
       </span>
+      <div class="languajes">
+        {
+          languages.map(({ language, fluency }) => (
+            <span>
+              {language} ({fluency})
+            </span>
+          ))
+        }
+      </div>
       <footer class="print">
         {printInfo}
       </footer>
@@ -85,6 +94,20 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 </Section>
 
 <style>
+  .languajes {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .languajes span{
+    background: #f5f5f5;
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 0.65rem;
+    color: #666;
+  } 
+  
   .container {
     display: flex;
     flex-direction: row;
