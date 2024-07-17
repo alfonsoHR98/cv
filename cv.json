@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Carlos Alfonso Hernandez Rojas",
-    "label": "Desarrollador Jr. Frontend y Backend | Consultor de TI ",
+    "label": "Junior Frontend and Backend Developer | IT Consultant",
     "image": "photo.jpeg",
     "email": "alfonsohr_98@outlook.com",
     "phone": "+52 444 314 22 85",
     "url": "https://madaraweed.dev",
-    "summary": "Soy un profesional con dos años de experiencia en desarrollo web, enfocado principalmente en tecnologías como React, Next.js y Astro. He contribuido al desarrollo y mantenimiento de aplicaciones web modernas y dinámicas, con un fuerte énfasis en la creación de interfaces de usuario responsivas y amigables.\n Además, tengo experiencia en el desarrollo de APIs utilizando Python y Javascript, especializándome en la integración de sistemas mediante API REST.\n Mi trayectoria profesional refleja una combinación única de habilidades técnicas en desarrollo web y backend, junto con capacidades administrativas esenciales para asegurar el funcionamiento eficiente de los sistemas tecnológicos en la empresa.",
+    "summary": "I am a professional with two years of experience in web development, focusing primarily on technologies such as React, Next.js, and Astro. I have contributed to the development and maintenance of modern and dynamic web applications, with a strong emphasis on creating responsive and user-friendly interfaces.\n Additionally, I have experience in developing APIs using Python and JavaScript, specializing in system integration through REST APIs.\n My professional journey reflects a unique combination of technical skills in web and backend development, along with essential administrative abilities to ensure efficient operation of technological systems within the company.",
     "location": {
       "address": "Carretera a Zacatecas 1200 int E-5",
       "postalCode": "78116",
@@ -30,16 +30,16 @@
   "work": [
     {
       "name": "Niuko Consultores",
-      "position": "Consultor",
+      "position": "Consultant",
       "url": "https://niuko.mx",
       "startDate": "2022-11-22",
       "endDate": null,
-      "summary": "Soy encargado de las oficinas de Queretaro y colaboro en las de San Luis Potosí, desempeño un rol integral dentro del área de TI, donde además de brindar soporte técnico, gestiono licenciamientos, controlo inventarios, controlo el servidor privado donde se da servicio y soporte de Compaq, administración de redes, cableado estructurado, entre mas actividades.",
+      "summary": "In my current role, I oversee operations at the Querétaro offices and actively collaborate with those in San Luis Potosí, playing an integral role in the IT department. In addition to providing technical support, I am responsible for license management, inventory control, and the administration of the private server for Compaq services and support. I specialize in the configuration and management of Fortinet devices and develop specific web solutions to optimize internal processes and improve operational efficiency. Furthermore, I manage networks and supervise structured cabling, among other key responsibilities.",
       "highlights": [
-        "Implemente y cree el servicio de aplicación de control horas",
-        "Colabore en la mejora de rendimiento en la pagina web de la empresa",
-        "Actualice el blog de la empresa",
-        "Colabore en un chat bot para la empresa para tickets de soporte"
+        "Implemented and created the application service for hours control",
+        "Collaborated in performance improvement on the company's website",
+        "Updated the company's blog",
+        "Collaborated on a chatbot for ticket support within the company"
       ]
     },
     {
@@ -48,10 +48,10 @@
       "url": "https://carlsjr.com.mx/",
       "startDate": "2019-08-15",
       "endDate": "2022-11-19",
-      "summary": "Supervise el correcto funcionamiento de la sucursal, asegurando la calidad de los productos y el servicio al cliente, además de la capacitación y supervisión del personal.",
+      "summary": "I supervised the proper operation of the branch, ensuring the quality of products and customer service, as well as training and supervising staff.",
       "highlights": [
-        "Capacite a personal para el correcto funcionamiento de la sucursal",
-        "Ayude en el cableado estructurado de la sucursal"
+        "Trained staff for the proper operation of the branch",
+        "Assisted in structured cabling at the branch"
       ]
     }
   ],
@@ -70,8 +70,8 @@
     {
       "institution": "Universidad Politécnica de San Luis Potosí",
       "url": "https://www.upslp.edu.mx/",
-      "area": "Ingeniería en Tecnologías de la Información",
-      "studyType": "Bachiller",
+      "area": "Information Technology Engineering",
+      "studyType": "Bachelor's Degree",
       "startDate": "2017-08-01",
       "endDate": "2023-06-01",
       "score": "8.39",
@@ -94,37 +94,37 @@
   ],
   "certificates": [
     {
-      "name": "Curso de Ciberseguridad para Desarrollo Web",
+      "name": "Cybersecurity Course for Web Development",
       "date": "2024-05-03",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/alfonsohr_98/curso/9443-software-seguro/diploma/detalle/"
     },
     {
-      "name": "T29B_LENGUAJESDEPROGRAMACION_LENGUAJEC_P2021",
+      "name": "T29B_Programming Languages_C Language_P2021",
       "date": "2021-06-01",
       "issuer": "CISCO",
       "url": ""
     },
     {
-      "name": "T29B_LENGUAJESDEPROGRAMACION_LENGUAJEC++_P2021",
+      "name": "T29B_Programming Languages_C++ Language_P2021",
       "date": "2021-06-01",
       "issuer": "CISCO",
       "url": ""
     },
     {
-      "name": "T29B_LENGUAJESDEPROGRAMACION_PHYTON_P2021",
+      "name": "T29B_Programming Languages_Python_P2021",
       "date": "2021-06-01",
       "issuer": "CISCO",
       "url": ""
     },
     {
-      "name": "T34AProyecto Integrador y Comprensivo IIO2021",
+      "name": "T34AComprehensive Integrative and Comprehension Project IIO2021",
       "date": "2021-12-07",
       "issuer": "CISCO",
       "url": ""
     },
     {
-      "name": "T49A-Redes de Computadoras-OTOÑO2022",
+      "name": "T49A-Computer Networks-FALL2022",
       "date": "2022-12-21",
       "issuer": "CISCO",
       "url": ""
@@ -148,79 +148,89 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "UI"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "UI"]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "React Framework"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "React Framework"]
     },
     {
       "name": "Astro",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "Static Site Generator"]
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Static Site Generator"
+      ]
     },
     {
       "name": "Tailwind",
       "level": "Junior",
-      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
     },
     {
       "name": "Python",
-      "level": "Avanzado",
-      "keywords": ["Backend", "Desarrollo Web", "APIs", "Automatización"]
+      "level": "Advanced",
+      "keywords": ["Backend", "Web Development", "APIs", "Automation"]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MongoDB",
-      "level": "Avanzado",
-      "keywords": ["Bases de Datos", "NoSQL", "Almacenamiento de Datos", "Backend"]
+      "level": "Advanced",
+      "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
     },
     {
       "name": "Postgres",
-      "level": "Avanzado",
-      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Nativo"
+      "fluency": "Native"
     },
     {
       "language": "English",
@@ -229,12 +239,12 @@
   ],
   "interests": [
     {
-      "name": "Hobbys",
-      "keywords": ["Videojuegos", "Boxeo", "Ciclismo"]
+      "name": "Hobbies",
+      "keywords": ["Video Games", "Boxing", "Cycling"]
     },
     {
       "name": "Interests",
-      "keywords": ["Desarrollo web", "Backend", "APIs"]
+      "keywords": ["Web Development", "Backend", "APIs"]
     }
   ],
   "references": [
@@ -249,12 +259,12 @@
       "isActive": true,
       "startDate": "2024-03-01",
       "endDate": "2021-06-01",
-      "description": "Time Building es una aplicación web que permite a los usuarios llevar un registro de las horas trabajadas, además de generar reportes y estadísticas sobre su productividad.",
+      "description": "Time Building is a web application that allows users to track their working hours, generate reports, and statistics on their productivity.",
       "highlights": [
-        "Desarrollo de la interfaz de usuario",
-        "Despliegue de servicios en la nube",
-        "Mantenimiento y soporte técnico",
-        "Documentación del proyecto"
+        "User interface development",
+        "Cloud service deployment",
+        "Maintenance and technical support",
+        "Project documentation"
       ],
       "url": "https://dashboard.niuko.mx/",
       "github": "https://github.com/alfonsoHR98/niuko-frontend"
@@ -264,12 +274,12 @@
       "isActive": true,
       "startDate": "2024-03-01",
       "endDate": "2021-06-01",
-      "description": "API responsable de la gestión de usuarios, proyectos y horas trabajadas en la aplicación TimeBuilding.",
+      "description": "API responsible for managing users, projects, and hours worked in the TimeBuilding application.",
       "highlights": [
-        "Desarrollo de la API REST",
-        "Uso de JSON Web Tokens para la autenticación",
-        "Implementación de la base de datos",
-        "Despliegue de servicios en la nube"
+        "REST API development",
+        "Use of JSON Web Tokens for authentication",
+        "Database implementation",
+        "Cloud service deployment"
       ],
       "url": "https://dashboard.niuko.mx/",
       "github": "https://github.com/alfonsoHR98/niuko-backend"
@@ -278,43 +288,43 @@
       "name": "Blog",
       "isActive": true,
       "startDate": "2024-07-01",
-      "endDate": "Actualidad",
-      "description": "Se busca actualizar, mejorar y mantener el blog de la empresa, con el objetivo de atraer a nuevos clientes y mantener informados a los actuales. Implementando nuevas funcionalidades y mejoras en la interfaz de usuario, una forma fácil de realizar publicaciones",
+      "endDate": "Present",
+      "description": "The goal is to update, enhance, and maintain the company's blog to attract new customers and keep current ones informed. Implementing new features and improvements in the user interface, an easy way to make publications",
       "highlights": [
-        "Desarrollo de interfaz de usuario",
-        "EmailJs para el envío de correos",
-        "Firebase para el banco de imágenes",
-        "Despliegue en la nube"
+        "User interface development",
+        "EmailJs for email sending",
+        "Firebase for image bank",
+        "Cloud deployment"
       ],
       "url": "https://blog.niuko.mx/",
       "github": "https://github.com/alfonsoHR98/niuko-blog"
     },
     {
-      "name": "Control de Inventarios Frontend",
+      "name": "Inventory Control Frontend",
       "isActive": true,
       "startDate": "2023-08-01",
       "endDate": "2023-12-20",
-      "description": "Control de inventarios es una aplicación web que permite a los usuarios llevar un registro de los productos en stock, además de generar reportes y estadísticas sobre las ventas y el inventario.",
+      "description": "Inventory control is a web application that allows users to track products in stock, as well as generate reports and statistics on sales and inventory.",
       "highlights": [
-        "Desarrollo de la interfaz de usuario",
-        "Despliegue de servicios en la nube",
-        "Mantenimiento y soporte técnico",
-        "Documentación del proyecto"
+        "User interface development",
+        "Cloud service deployment",
+        "Maintenance and technical support",
+        "Project documentation"
       ],
       "url": "https://aproil.up.railway.app/",
       "github": "https://github.com/alfonsoHR98/aproil-frontend"
     },
     {
-      "name": "Control de Inventarios Backend",
+      "name": "Inventory Control Backend",
       "isActive": true,
       "startDate": "2023-08-01",
       "endDate": "2023-12-20",
-      "description": "API responsable de la gestión de productos, ventas y reportes en la aplicación Control de Inventarios.",
+      "description": "API responsible for managing products, sales, and reports in the Inventory Control application.",
       "highlights": [
-        "Desarrollo de la API REST",
-        "Uso de JSON Web Tokens para la autenticación",
-        "Implementación de la base de datos",
-        "Despliegue de servicios en la nube"
+        "REST API development",
+        "Use of JSON Web Tokens for authentication",
+        "Database implementation",
+        "Cloud service deployment"
       ],
       "url": "https://aproil.up.railway.app/",
       "github": "https://github.com/alfonsoHR98/aproil-api"
