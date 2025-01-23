@@ -6,7 +6,7 @@
     "email": "alfonsohr_98@outlook.com",
     "phone": "+52 444 314 22 85",
     "url": "https://madaraweed.dev",
-    "summary": "I am a professional with two years of experience in web development, focusing primarily on technologies such as React, Next.js, and Astro. I have contributed to the development and maintenance of modern and dynamic web applications, with a strong emphasis on creating responsive and user-friendly interfaces.\n Additionally, I have experience in developing APIs using Python and JavaScript, specializing in system integration through REST APIs.\n My professional journey reflects a unique combination of technical skills in web and backend development, along with essential administrative abilities to ensure efficient operation of technological systems within the company.",
+    "summary": "Innovative IT Engineer with expertise in developing technological solutions to streamline business operations. Proven experience in creating dashboards, internal evaluation systems, and automating processes such as news delivery. Skilled in website and chatbot development, technical support, and infrastructure management. Currently pursuing a Master’s in Engineering with a focus on Data Science to enhance analytical and problem-solving capabilities.",
     "location": {
       "address": "Carretera a Zacatecas 1200 int E-5",
       "postalCode": "78116",
@@ -69,7 +69,7 @@
   "education": [
     {
       "institution": "Universidad Politécnica de San Luis Potosí",
-      "url": "https://www.upslp.edu.mx/",
+      "url": "https://uvm.mx/",
       "area": "Information Technology Engineering",
       "studyType": "Bachelor's Degree",
       "startDate": "2017-08-01",
@@ -82,6 +82,16 @@
         "98-349:MTA: Windows® Operating System Fundamentals",
         "98-383:MTA: Introduction to Programming using HTML and CSS"
       ]
+    },
+    {
+      "institution": "Universidad del Valle de México",
+      "url": "https://www.upslp.edu.mx/",
+      "area": "Master of Engineering with a Focus on Data Sciences",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2025-01-06",
+      "endDate": null,
+      "score": null,
+      "courses": []
     }
   ],
   "awards": [
